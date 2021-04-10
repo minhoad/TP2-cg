@@ -68,4 +68,4 @@ As teclas "F1" e "F2" fazem a posição do observador ir para frente e para trá
 A tecla "c" alterna a câmera entre uma visão superior e uma visão lateral.
 
 Itens adicionais implementados:
-Reshape, satélites naturais e modo de órbitas visíveis.
+Reshape, satélites naturais, modo de órbitas visíveis e funcionalidade das teclas "F1" e "F2".
